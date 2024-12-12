@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\israa\\source\\repos\\ProyectoE_D\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{14E565F4-3FE5-4A79-BAE0-F110A62A525F}|ProyectoE_D\\ProyectoE_D.csproj|c:\\users\\israa\\source\\repos\\proyectoe_d\\proyectoe_d\\gestorarchivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14E565F4-3FE5-4A79-BAE0-F110A62A525F}|ProyectoE_D\\ProyectoE_D.csproj|solutionrelative:proyectoe_d\\gestorarchivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14E565F4-3FE5-4A79-BAE0-F110A62A525F}|ProyectoE_D\\ProyectoE_D.csproj|c:\\users\\israa\\source\\repos\\proyectoe_d\\proyectoe_d\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14E565F4-3FE5-4A79-BAE0-F110A62A525F}|ProyectoE_D\\ProyectoE_D.csproj|solutionrelative:proyectoe_d\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14E565F4-3FE5-4A79-BAE0-F110A62A525F}|ProyectoE_D\\ProyectoE_D.csproj|c:\\users\\israa\\source\\repos\\proyectoe_d\\proyectoe_d\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14E565F4-3FE5-4A79-BAE0-F110A62A525F}|ProyectoE_D\\ProyectoE_D.csproj|solutionrelative:proyectoe_d\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14E565F4-3FE5-4A79-BAE0-F110A62A525F}|ProyectoE_D\\ProyectoE_D.csproj|c:\\users\\israa\\source\\repos\\proyectoe_d\\proyectoe_d\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14E565F4-3FE5-4A79-BAE0-F110A62A525F}|ProyectoE_D\\ProyectoE_D.csproj|solutionrelative:proyectoe_d\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14E565F4-3FE5-4A79-BAE0-F110A62A525F}|ProyectoE_D\\ProyectoE_D.csproj|c:\\users\\israa\\source\\repos\\proyectoe_d\\proyectoe_d\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14E565F4-3FE5-4A79-BAE0-F110A62A525F}|ProyectoE_D\\ProyectoE_D.csproj|solutionrelative:proyectoe_d\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14E565F4-3FE5-4A79-BAE0-F110A62A525F}|ProyectoE_D\\ProyectoE_D.csproj|c:\\users\\israa\\source\\repos\\proyectoe_d\\proyectoe_d\\listacirculardoble.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14E565F4-3FE5-4A79-BAE0-F110A62A525F}|ProyectoE_D\\ProyectoE_D.csproj|solutionrelative:proyectoe_d\\listacirculardoble.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14E565F4-3FE5-4A79-BAE0-F110A62A525F}|ProyectoE_D\\ProyectoE_D.csproj|C:\\Users\\israa\\source\\repos\\ProyectoE_D\\proyectoe_d\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{14E565F4-3FE5-4A79-BAE0-F110A62A525F}|ProyectoE_D\\ProyectoE_D.csproj|solutionrelative:proyectoe_d\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14E565F4-3FE5-4A79-BAE0-F110A62A525F}|ProyectoE_D\\ProyectoE_D.csproj|C:\\Users\\israa\\source\\repos\\ProyectoE_D\\proyectoe_d\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{14E565F4-3FE5-4A79-BAE0-F110A62A525F}|ProyectoE_D\\ProyectoE_D.csproj|solutionrelative:proyectoe_d\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14E565F4-3FE5-4A79-BAE0-F110A62A525F}|ProyectoE_D\\ProyectoE_D.csproj|c:\\users\\israa\\source\\repos\\proyectoe_d\\proyectoe_d\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14E565F4-3FE5-4A79-BAE0-F110A62A525F}|ProyectoE_D\\ProyectoE_D.csproj|solutionrelative:proyectoe_d\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14E565F4-3FE5-4A79-BAE0-F110A62A525F}|ProyectoE_D\\ProyectoE_D.csproj|c:\\users\\israa\\source\\repos\\proyectoe_d\\proyectoe_d\\nodoventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14E565F4-3FE5-4A79-BAE0-F110A62A525F}|ProyectoE_D\\ProyectoE_D.csproj|solutionrelative:proyectoe_d\\nodoventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\israa\\source\\repos\\ProyectoE_D\\ProyectoE_D\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "ProyectoE_D\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\israa\\source\\repos\\ProyectoE_D\\ProyectoE_D\\Form1.Designer.cs",
+              "RelativeToolTip": "ProyectoE_D\\Form1.Designer.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAAwH4AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T21:10:55.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\israa\\source\\repos\\ProyectoE_D\\ProyectoE_D\\Form2.cs",
+              "RelativeDocumentMoniker": "ProyectoE_D\\Form2.cs",
+              "ToolTip": "C:\\Users\\israa\\source\\repos\\ProyectoE_D\\ProyectoE_D\\Form2.cs*",
+              "RelativeToolTip": "ProyectoE_D\\Form2.cs*",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAAwEsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T21:06:38.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form2.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\israa\\source\\repos\\ProyectoE_D\\ProyectoE_D\\Form2.Designer.cs",
+              "RelativeDocumentMoniker": "ProyectoE_D\\Form2.Designer.cs",
+              "ToolTip": "C:\\Users\\israa\\source\\repos\\ProyectoE_D\\ProyectoE_D\\Form2.Designer.cs",
+              "RelativeToolTip": "ProyectoE_D\\Form2.Designer.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAYwEoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T21:11:06.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\israa\\source\\repos\\ProyectoE_D\\ProyectoE_D\\Form1.cs",
+              "RelativeDocumentMoniker": "ProyectoE_D\\Form1.cs",
+              "ToolTip": "C:\\Users\\israa\\source\\repos\\ProyectoE_D\\ProyectoE_D\\Form1.cs",
+              "RelativeToolTip": "ProyectoE_D\\Form1.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBEAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T21:00:21.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GestorArchivo.cs",
+              "DocumentMoniker": "C:\\Users\\israa\\source\\repos\\ProyectoE_D\\ProyectoE_D\\GestorArchivo.cs",
+              "RelativeDocumentMoniker": "ProyectoE_D\\GestorArchivo.cs",
+              "ToolTip": "C:\\Users\\israa\\source\\repos\\ProyectoE_D\\ProyectoE_D\\GestorArchivo.cs*",
+              "RelativeToolTip": "ProyectoE_D\\GestorArchivo.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T20:57:38.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ListaCircularDoble.cs",
+              "DocumentMoniker": "C:\\Users\\israa\\source\\repos\\ProyectoE_D\\ProyectoE_D\\ListaCircularDoble.cs",
+              "RelativeDocumentMoniker": "ProyectoE_D\\ListaCircularDoble.cs",
+              "ToolTip": "C:\\Users\\israa\\source\\repos\\ProyectoE_D\\ProyectoE_D\\ListaCircularDoble.cs",
+              "RelativeToolTip": "ProyectoE_D\\ListaCircularDoble.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAAwGoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T20:57:03.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NodoVenta.cs",
+              "DocumentMoniker": "C:\\Users\\israa\\source\\repos\\ProyectoE_D\\ProyectoE_D\\NodoVenta.cs",
+              "RelativeDocumentMoniker": "ProyectoE_D\\NodoVenta.cs",
+              "ToolTip": "C:\\Users\\israa\\source\\repos\\ProyectoE_D\\ProyectoE_D\\NodoVenta.cs",
+              "RelativeToolTip": "ProyectoE_D\\NodoVenta.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwBEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T20:56:25.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Venta.cs",
+              "DocumentMoniker": "C:\\Users\\israa\\source\\repos\\ProyectoE_D\\ProyectoE_D\\Venta.cs",
+              "RelativeDocumentMoniker": "ProyectoE_D\\Venta.cs",
+              "ToolTip": "C:\\Users\\israa\\source\\repos\\ProyectoE_D\\ProyectoE_D\\Venta.cs",
+              "RelativeToolTip": "ProyectoE_D\\Venta.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T20:54:56.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form2.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\israa\\source\\repos\\ProyectoE_D\\ProyectoE_D\\Form2.cs",
+              "RelativeDocumentMoniker": "ProyectoE_D\\Form2.cs",
+              "ToolTip": "C:\\Users\\israa\\source\\repos\\ProyectoE_D\\ProyectoE_D\\Form2.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ProyectoE_D\\Form2.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T19:08:14.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\israa\\source\\repos\\ProyectoE_D\\ProyectoE_D\\Form1.cs",
+              "RelativeDocumentMoniker": "ProyectoE_D\\Form1.cs",
+              "ToolTip": "C:\\Users\\israa\\source\\repos\\ProyectoE_D\\ProyectoE_D\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ProyectoE_D\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T18:35:23.445Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
